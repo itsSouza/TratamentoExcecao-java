@@ -62,7 +62,7 @@ public class Reserva {
 			+ sdf.format(checkout)
 			+ ", "
 			+ Duracao()
-			+ " noites";
+			+ " noites ";
 	
 	}
 	
