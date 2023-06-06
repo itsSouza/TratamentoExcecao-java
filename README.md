@@ -1,4 +1,4 @@
-* TratamentoExcecao-java
+* Tratamento de Excecao em Java
 
 
 Atividade do curso de java do professor Nelio Alves.
